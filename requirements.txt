@@ -1,6 +1,3 @@
 streamlit
-pandas
-numpy
-scikit-learn
-altair
-matplotlib
+pillow
+qrcode
