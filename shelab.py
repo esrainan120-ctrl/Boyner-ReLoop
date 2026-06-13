@@ -7,6 +7,30 @@ st.markdown(
 
 st.markdown("""
 <style>
+html, body, [class*="css"] {
+    color: #1C2440 !important;
+}
+
+.stApp {
+    background-color: #F7F8FA;
+    color: #1C2440;
+}
+
+p, span, div, h1, h2, h3, h4, h5 {
+    color: #1C2440;
+}
+
+.product-card {
+    text-align: center;
+    font-weight: 700;
+    color: #1C2440 !important;
+}
+
+.metric-value {
+    color: #0b6b2b !important;
+    font-size: 34px;
+    font-weight: 700;
+}
 .stApp {
     background-color: #F7F8FA;
 }
